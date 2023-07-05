@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background: url("https://wallpapercave.com/wp/wp5561716.jpg") no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mainBox {
+  background: #000;
+  opacity: 0.8;
+  border-radius: 25px;
+  padding: 1rem;
+  color: white;
+}
+
+.inputCity {
+  border: none;
+  outline: none;
+  padding: 0.5rem;
+  border-radius: 25px;
+  background-color: #7c7c7c2b;
+  color: #fafafa;
+  width: 70%;
+}
+
+.searchButton {
+  border: none;
+  outline: none;
+  padding: 0.4rem;
+  cursor: pointer;
+  float: right;
+  border-radius: 50%;
+  background-color: #7c7c7c2b;
+}
+
+.searchImg {
+  width: 20px;
+}
