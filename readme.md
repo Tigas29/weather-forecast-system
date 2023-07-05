@@ -17,6 +17,7 @@ to show some of my skills in Programming logic and learn more about JavaScript. 
 ## :rocket: Technologies
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Public Api](https://openweathermap.org/api)
 - [VS Code](https://code.visualstudio.com/) with [EditorConfig](https://editorconfig.org/), [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/).
 
 ## :information_source: How To Use
@@ -25,7 +26,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), insta
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Tigas29/IMC-CALCULATOR.git
+$ git clone (https://github.com/Tigas29/weather-forecast-system.git)
 
 # Go into the repository
 
@@ -34,7 +35,7 @@ $ git clone https://github.com/Tigas29/IMC-CALCULATOR.git
 
 ```
 
-## :information_source:[Or click here!](https://imc-calculator-tigas29.vercel.app/)
+## :information_source:[Or click here!](https://weather-forecast-system.vercel.app/)
 
 ## Result
 
