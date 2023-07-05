@@ -38,7 +38,7 @@ $ git clone (https://github.com/Tigas29/weather-forecast-system.git)
 ## :information_source:[Or click here!](https://weather-forecast-system.vercel.app/)
 
 ## Result
-
+<p align=center>
 <img src="https://github.com/Tigas29/weather-forecast-system/blob/main/assets/result.png" width="800">
-
+</p>
 Made with ♥ by Tiago Santos :wave: [Get in touch!](https://www.linkedin.com/in/tiagosantos-dev/)
