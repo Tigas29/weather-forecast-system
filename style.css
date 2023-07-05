@@ -21,6 +21,8 @@ body {
   border-radius: 25px;
   padding: 1rem;
   color: white;
+  width: 95%;
+  max-width: 450px;
 }
 
 .inputCity {
@@ -30,7 +32,7 @@ body {
   border-radius: 25px;
   background-color: #7c7c7c2b;
   color: #fafafa;
-  width: 70%;
+  width: 80%;
 }
 
 .searchButton {
@@ -45,4 +47,37 @@ body {
 
 .searchImg {
   width: 20px;
+}
+
+.mediumBox {
+  margin-top: 1.3rem;
+}
+.city {
+  font-size: 28px;
+  font-weight: 300;
+  color: #fafafa;
+}
+
+.weather {
+  font-size: 20px;
+  color: #fafafa;
+  margin-top: 1rem;
+}
+
+.smallBox {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 1rem;
+  gap: 1rem;
+}
+
+.weatherText {
+  color: #ffff;
+  text-transform: capitalize;
+}
+
+.moisture {
+  color: #fff;
+  margin-top: 1rem;
 }
