@@ -1,7 +1,6 @@
 const apiKey = "3bfa59ce2cb1d84d5aa995900b81ecac";
 
 function Showdata(data) {
-  console.log(data);
   document.querySelector(".city").innerHTML = "Tempo em " + data.name;
   document.querySelector(".weather").innerHTML =
     Math.floor(data.main.temp) + "°C";
