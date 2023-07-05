@@ -24,3 +24,9 @@ function clickeOnButton() {
   const city = document.querySelector(".inputCity").value;
   searchCity(city);
 }
+
+window.addEventListener("keyup", ({ key }) => {
+  if (key === "Enter") {
+    clickeOnButton();
+  }
+});
